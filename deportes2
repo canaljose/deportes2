@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/espn-150x150.jpg"group-title="DEPORTES",ESPN
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
+#EXTINF:-1, tvg-logo="https://espnpressroom.com/latinamerica/files/2022/05/ESPN-Premium-.jpg"group-title="DEPORTES",ESPN PREMIUN
+https://dtvott-abc.akamaized.net/dash_live_1109/manifest.mpd?&ck=eyI3MGNlOGVjMGJkYTI1NjY0YjMyNTUwZTFkMzc3YTQ4MCI6IjJiOTEyNDdiZDQ1MzY0ZWI2YWI1ZDRjMmM3MWNhZWIwIn0=
+
+#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/foxsports-150x150.jpg"group-title="DEPORTES",FoxSports
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
+#EXTINF:-1, tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="DEPORTES",Bein Sport  Extra 
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/foxsports2-150x150.jpg"group-title="DEPORTES",FORS_PORTS 2 MEXICO
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
+
+#EXTINF:-1, tvg-logo="https://futbollibre.net/img/logo-canal/TNT_Sports.webp"group-title="DEPORTES",TNT SPORTS
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd?&ck=eyJjNDY5N2JmNDU4ZGE1MmY4Yjk2YjM2Y2NlNzYxZDU3MSI6ImE0ZGVlNzc2MTUyNzljODU4YjE5ZTViYjY5YWI2NzU1In0=
+
+#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/06/dtv-150x150.png"group-title="DEPORTES",CDN
+https://cdn01.yowi.tv/KQRSDA7GDB/live-2000.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/clarosports-150x150.jpg"group-title="DEPORTES",Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/tudn-150x150.jpg"group-title="DEPORTES",TDN
+https://js.deplayer.pw:30443/edge/ver3d212e1d216437ba2d24502a4768ad44/chunks.m3u8
+
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg"group-title="DEPORTES",LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1, tvg-logo="https://curiosfera-historia.com/wp-content/uploads/Historia-de-las-carreras-de-caballos-1.jpg"group-title="España",Carrera de caballo
+https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8?uid=tVb33pgAFpOKcWFLjQfBoYryTlDhDBDL&sid=QxAUjDcKm0UNZUA44yjZg0POZtCLOyXU&pid=mHDWr6N7ONYOueJWUW6wOjIYOXFUAnF2&an=screen&at=web-app&av=v5.2.247&ref=https%3A%2F%2Fhipodromo.cl%2F&res=900x506&without_cookies=false&listenerid=&dvrOffset=36000&dnt=true
+
+
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1234870573/cdnsports300_400x400.png"group-title="DEPORTES",CDN SPORTS
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/03ab3a290c9a4845b435d8948088bb7f/chunklist_b4628000.m3u8?p=79&s=1654469330&e=1654469450&h=1b62a7eacb6738d27b28787f900c5053
+
+#EXTINF:-1,  tvg-logo="https://televisionlibre.net/img/logo_canal/Univision.png"group-title="DEPORTES",UNIVICION
+https://v-la.mybtv.net/live/178.m3u8
